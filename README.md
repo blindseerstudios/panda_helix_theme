@@ -1,4 +1,4 @@
-# panda_helix_theme
+# Panda Syntax Helix Theme
 Panda Syntax theme for Helix editor
 
 This is a theme for [Helix](https://helix-editor.com/) editor based on [Dainty Panda](https://marketplace.visualstudio.com/items?itemName=alexanderte.dainty-panda-theme-vscode) for VSCode.
