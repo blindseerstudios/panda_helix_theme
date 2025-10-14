@@ -7,4 +7,4 @@ This is a theme for [Helix](https://helix-editor.com/) editor based on [Dainty P
 Create and place the toml file in your themes directory (i.e ~/.config/helix/themes or %AppData%\helix\themes on Windows).
 If the directory isn't there just create it.
 
-<img width="1275" height="694" alt="PandaHelix" src="https://github.com/user-attachments/assets/16480475-e863-4a57-967f-3e15817872c2" />
+<img width="1539" height="967" alt="Screenshot 2025-10-09 at 17 24 52" src="https://github.com/user-attachments/assets/191f7e9d-df00-49de-badf-0d44a3690fd7" />
